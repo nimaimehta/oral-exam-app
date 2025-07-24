@@ -1,6 +1,3 @@
-Here’s the full content for your `app.py` file. You can copy and paste this into the GitHub file editor when creating the new file:
-
-```python
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
@@ -68,6 +65,4 @@ if st.button("Submit Answer"):
         else:
             st.balloons()
             st.write("🎉 You've completed the oral exam!")
-```
 
-Let me know once you've pasted and committed this file, and I’ll help you finish the deployment!
